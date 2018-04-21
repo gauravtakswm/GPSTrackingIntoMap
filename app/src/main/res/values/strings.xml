@@ -6,7 +6,7 @@
     <string name="get_location_using_gps">Get Location using GPS</string>
     <string name="press_me_get_location">Press me to Get Location</string>
     <string name="show_my_location_into_map">Show my location into map</string>
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAXQ2MIjrRwPMNzlZh0Re4epC0vBhi_tBw</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">google_may_key</string>
     <string name="okay">Okay</string>
     <string name="something_went_wrong">Something went wrong...</string>
     <string name="not_provided_required_permission">You have not provided required permissions.</string>
